@@ -1,0 +1,33 @@
+{
+  "name": "react-edit-file-link",
+  "version": "1.0.0",
+  "description": "A React component to open files in VSCode",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerrickhakim/react-edit-file-link.git"
+  },
+  "keywords": [
+    "react",
+    "vscode",
+    "link",
+    "productivity"
+  ],
+  "author": "Jerrick Hakim",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.8",
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.1",
+    "@babel/preset-react": "^7.13.13",
+    "@babel/preset-typescript": "^7.24.7",
+    "@types/node": "^20.14.11",
+    "@types/react": "^18.3.3"
+  }
+}
