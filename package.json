@@ -1,6 +1,6 @@
 {
   "name": "react-edit-file-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component to open files in VSCode",
   "main": "dist/index.js",
   "scripts": {
